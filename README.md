@@ -1,9 +1,5 @@
 # Factors-Affecting-Infant-Sleep-Patterns
 
-# Project Name
-
-[Factors-Affecting-Infant-Sleep-Patterns]
-
 ## Description
 
 This project aims to analyze the sleep patterns and factors affecting sleep duration and awakenings in infants. The dataset used for this analysis includes information on various variables such as maternal mental health, infant age, sleep environment, and sleep behaviors.
